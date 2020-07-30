@@ -1,0 +1,53 @@
+  .box {
+    width: 100px auto;
+    padding: 80px auto;
+    margin: 40px auto;
+    box-sizing: border-box;
+  }
+  .card {
+    width: 100px auto;
+    padding: 80px auto;
+    margin: 40px auto;
+  }
+  .body {
+    font-size: 50px;
+    line-height: 27px;
+    background-color:rgb(5, 125, 146);
+  }
+  .wrapper {
+    width: 100px auto;
+    padding: 80px auto;
+    margin: 40px auto;
+    background-color: rgb(45, 48, 206);
+  }
+  .form-group {
+    padding: 20px 30px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100px auto;
+    padding: 10px auto;
+    margin: 40px auto;
+  }
+  .button {
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    color: aqua;
+    border-color: brown;
+  }
+
+  @media screen and (min-width: 640px) {
+    body {
+      background-color: rgb(16, 112, 168);
+    }
+  }
+  @media screen and (min-width: 768px) {
+    body {
+      background-color: rgb(6, 67, 102);
+    }
+  }
+  @media screen and (min-width: 980px) {
+    body {
+      background-color: rgb(7, 59, 90);
+    }
+  }
