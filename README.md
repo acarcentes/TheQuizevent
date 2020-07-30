@@ -2,7 +2,7 @@
 
 Hello!!
 
-I'm glad to present to you this small Quiz that will put your Planet Earth knoledge to the test.
+I'm glad to present to you this small Quiz that will put your Planet Earth knowledge to the test.
 
 You will have limited time to answer all 10 questions and it will save yoour score!!
 
